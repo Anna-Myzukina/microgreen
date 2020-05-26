@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Live version [microgreen](https://peaceful-crag-22986.herokuapp.com/)
 
-![screen](https://github.com/Anna-Myzukina/microgreen/blob/master/src/img/microgreen.jpg)
+![screen](https://github.com/Anna-Myzukina/microgreen/blob/master/src/img/easy-microgreens.jpg)
 
 With this APP you can easily find useful recipes with microgreens.
 
