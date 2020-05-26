@@ -107,14 +107,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 ## Skills
-- [ ] Ruby 
-- [ ] Ruby on Rails
+- [ ] React 
+- [ ] JavaScript
 - [ ] Bootstrap 4
-- [ ] faker
-- [ ] bcrypt
-- [ ] will_paginate
-- [ ] rubocop
-- [ ] postgreSQL
+- [ ] linux
+- [ ] git
+- [ ] API
 
 ## Features
 - [ ] A user search for recipes.
@@ -123,8 +121,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 - [ ] API
 
 ## Future features
-- [ ] Users can upload profile photos.
-- [ ] Users can comment activities.
+- [ ] Users can registered.
+- [ ] Users can add own recipes.
+- [ ] Users can do any activities.
 
 ![screen](https://github.com/Anna-Myzukina/groupon/blob/deploy/app/assets/images/screen.png)
 
