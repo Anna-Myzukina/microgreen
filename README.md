@@ -125,8 +125,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 - [ ] Users can add own recipes.
 - [ ] Users can do any activities.
 
-![screen](https://github.com/Anna-Myzukina/groupon/blob/deploy/app/assets/images/screen.png)
-
 
 ## Environment
  - [ ] "version": "0.1.0",
@@ -145,7 +143,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## 📝 License
 
-* [ ] See [LICENSE.md]() for details.
+* [ ] See [LICENSE.md](https://github.com/Anna-Myzukina/microgreen/blob/master/LICENSE.md) for details.
 
 ##  Contributing
 
