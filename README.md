@@ -105,3 +105,55 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Skills
+- [ ] React 
+- [ ] JavaScript
+- [ ] Bootstrap 4
+- [ ] linux
+- [ ] git
+- [ ] API
+
+## Features
+- [ ] A user search for recipes.
+- [ ] An app shows to user title, ingredients, calories, photo of resipe.
+- [ ] Bootstrap source in src/assets
+- [ ] API
+
+## Future features
+- [ ] Users can registered.
+- [ ] Users can add own recipes.
+- [ ] Users can do any activities.
+
+
+## Environment
+ - [ ] "version": "0.1.0",
+ - [ ] "private": true,
+ - [ ] "dependencies": {
+ - [ ] "@testing-library/jest-dom": "^4.2.4",
+ - [ ] "@testing-library/react": "^9.3.2",
+ - [ ] "@testing-library/user-event": "^7.1.2",
+ - [ ] "react": "^16.13.1",
+ - [ ] "react-dom": "^16.13.1",
+ - [ ] "react-scripts": "3.4.1"
+
+## Show your support
+
+- [ ] Give a ⭐️ if you like this project!
+
+## 📝 License
+
+* [ ] See [LICENSE.md](https://github.com/Anna-Myzukina/microgreen/blob/master/LICENSE.md) for details.
+
+##  Contributing
+
+Contributions, issues and feature requests are welcome!
+Edamam's Recipe Search API lets me integrate recipes and faceted recipe search into my application.
+Feel free to check the issues page [EDAMAM](https://developer.edamam.com/edamam-recipe-api).
+
+## Authors
+
+👤 **Author1**
+* GitHub: [Anna Muzykina](https://github.com/Anna-Myzukina)
+* LinkedIn: [Anna Muzykina](https://www.linkedin.com/in/anna-muzykina/)
+* email: anna.muzykina83@gmail.com
