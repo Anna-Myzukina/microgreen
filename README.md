@@ -1,6 +1,38 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Live version [microgreen](#)
 
 ## Available Scripts
+
+Create and Deploy a React App in Two Minutes
+You can get started building React apps for free on Heroku.
+
+        npm install -g create-react-app
+        create-react-app my-app
+        cd my-app
+        git init
+        heroku create -b https://github.com/mars/create-react-app-buildpack.git
+        git add .
+        git commit -m "react-create-app on Heroku"
+        git push heroku master
+        heroku open
+
+
+To create react project run next:
+
+### `npx create-react-app name-of-your-project`
+
+To install latest version of Bootstrap please run command:
+
+### `npm i -save bootstrap@latest`
+
+After installed Bootstrap add next to index.js
+
+### `import '../node_modules/bootstrap/dist/css/bootstrap.min.css'`
+
+
+
+## Available Scripts
+
 
 In the project directory, you can run:
 
