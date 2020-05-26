@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Live version [microgreen](https://peaceful-crag-22986.herokuapp.com/)
 
+![screen](https://github.com/Anna-Myzukina/microgreen/blob/master/src/img/microgreen.jpg)
+
 With this APP you can easily find useful recipes with microgreens.
 
 What are this microgreens? [Microgreens](https://en.wikipedia.org/wiki/Microgreen) are vegetable greens (not to be confused with sprouts or shoots) harvested just after the cotyledon leaves have developed (and possibly with one set of true leaves). They are grown or purchased by people focused on nutrition, or else are used as both a visual and flavor component, primarily in fine dining restaurants. Chefs use colorful microgreens to enhance the attractiveness and taste of their dishes with distinct delicate textures and unique flavors, such as sweet and spicy. Microgreens are smaller than “baby greens” (e.g. spinach, kale, arugula, radicchio), but harvested later than sprouts (e.g. broccoli, mung bean, soya bean, wheat, and sunflower). Among upscale grocers, they are now considered a specialty genre of greens, good for garnishing salads, soups, sandwiches, and plates.
