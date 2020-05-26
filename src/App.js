@@ -16,7 +16,7 @@ const App = () => {
   }, [query]);
 
   const GET_RECEPIES = async () => {
-    const RESPONSE = await fetch(`https://api.edamam.com/search?q=${query}&app_id=${APP_ID}&app_key=${APP_KEY}`);
+    const RESPONSE = await fetch(`https://api.edamam.com/search?q=microgreen&app_id=${APP_ID}&app_key=${APP_KEY}`);
     const DATA = await RESPONSE.json();
     setRecipes(DATA.hits);
     console.log(DATA.hits);
