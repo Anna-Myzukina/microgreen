@@ -16,7 +16,7 @@ const App = () => {
   }, [query]);
 
   const GET_RECEPIES = async () => {
-    const RESPONSE = await fetch(`https://api.edamam.com/search?q=microgreen&app_id=${APP_ID}&app_key=${APP_KEY}`);
+    const RESPONSE = await fetch(`https://api.edamam.com/search?q=${query}&app_id=${APP_ID}&app_key=${APP_KEY}`);
     const DATA = await RESPONSE.json();
     setRecipes(DATA.hits);
     console.log(DATA.hits);
@@ -44,7 +44,7 @@ const App = () => {
         <Recipe 
                 key={recipe.recipe.label}
                 title={recipe.recipe.label} 
-                calories={recipe.recipe.calories}
+                calories={`${Math.round(recipe.recipe.calories * 100) / 100} Calories`}
                 image={recipe.recipe.image}
                 ingredients={recipe.recipe.ingredients}>
 
